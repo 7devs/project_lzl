@@ -14,7 +14,7 @@ wechat.createMenu(require('./lib/menu.json'));
 app.use('/wxapi', require('./lib/routers/wxapi.js'));
 
 app.get('/', function(req, res, next) {
-  res.send('1474894044034');
+  res.send('1474902499322');
 });
 
 app.listen(8007, function(error) {

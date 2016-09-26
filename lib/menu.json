@@ -5,17 +5,20 @@
             "sub_button": [
                 {
                     "name": "二",
-                    "type": "pic_sysphoto"
+                    "type": "pic_sysphoto",
+                    "key": "menu2"
                 }
             ]
         },
         {
             "name": "三",
-            "type": "pic_weixin"
+            "type": "pic_weixin",
+            "key": "menu3"
         },
         {
             "name": "四",
-            "type": "scancode_push"
+            "type": "scancode_push",
+            "key": "menu4"
         }
     ]
 }
