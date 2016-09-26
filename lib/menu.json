@@ -5,20 +5,17 @@
             "sub_button": [
                 {
                     "name": "LZL",
-                    "type": "click",
-                    "key": "pic_sysphoto"
+                    "type": "pic_sysphoto"
                 }
             ]
         },
         {
             "name": "尊",
-            "type": "click",
-            "key": "pic_weixin"
+            "type": "pic_weixin"
         },
         {
             "name": "龙",
-            "type": "click",
-            "key": "scancode_push"
+            "type": "scancode_push"
         }
     ]
 }
