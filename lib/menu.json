@@ -1,20 +1,20 @@
 {
     "button": [
         {
-            "name": "李",
+            "name": "一",
             "sub_button": [
                 {
-                    "name": "LZL",
+                    "name": "二",
                     "type": "pic_sysphoto"
                 }
             ]
         },
         {
-            "name": "尊",
+            "name": "三",
             "type": "pic_weixin"
         },
         {
-            "name": "龙",
+            "name": "四",
             "type": "scancode_push"
         }
     ]
