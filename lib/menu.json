@@ -6,19 +6,19 @@
                 {
                     "name": "LZL",
                     "type": "click",
-                    "key": "menu1"
+                    "key": "pic_sysphoto"
                 }
             ]
         },
         {
             "name": "尊",
             "type": "click",
-            "key": "menu2"
+            "key": "pic_weixin"
         },
         {
             "name": "龙",
-            "type": "view",
-            "url": "https://lizunlong.com/"
+            "type": "click",
+            "key": "scancode_push"
         }
     ]
 }
