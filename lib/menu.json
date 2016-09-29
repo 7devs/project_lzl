@@ -5,7 +5,7 @@
             "sub_button": [
                 {
                     "name": "二",
-                    "type": "pic_sysphoto",
+                    "type": "click",
                     "key": "menu2"
                 }
             ]
