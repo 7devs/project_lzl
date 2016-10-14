@@ -1,24 +1,44 @@
 {
     "button": [
         {
-            "name": "一",
+            "name": "菜单1",
             "sub_button": [
                 {
-                    "name": "二",
+                    "name": "子菜单",
                     "type": "click",
-                    "key": "menu2"
+                    "key": "menu1"
+                },
+                {
+                    "name": "拍个照",
+                    "type": "pic_sysphoto",
+                    "key": "sysphoto"
+                },
+                {
+                    "name": "扫个码",
+                    "type": "scancode_push",
+                    "key": "scancode"
                 }
             ]
         },
         {
-            "name": "三",
-            "type": "pic_weixin",
-            "key": "menu3"
+            "name": "菜单2",
+            "type": "click",
+            "key": "menu2"
         },
         {
-            "name": "四",
-            "type": "scancode_push",
-            "key": "menu4"
+            "name": "更多...",
+            "sub_button": [
+                {
+                    "name": "页面1",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8017/pages/one"
+                },
+                {
+                    "name": "页面2",
+                    "type": "view",
+                    "url": "http://wechatdev.yokeneng.com/8017/pages/two"
+                }
+            ]
         }
     ]
 }
